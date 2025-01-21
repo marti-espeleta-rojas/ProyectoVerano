@@ -35,3 +35,4 @@ C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WebAppServer\obj\D
 C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WebAppServer\obj\Debug\net8.0\WebAppServer.pdb
 C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WebAppServer\obj\Debug\net8.0\WebAppServer.genruntimeconfig.cache
 C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WebAppServer\obj\Debug\net8.0\ref\WebAppServer.dll
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WebAppServer\obj\Debug\net8.0\WebAppServer.sourcelink.json
