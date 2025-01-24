@@ -1,0 +1,17 @@
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.Form1.resources
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.sourcelink.json
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\bin\Debug\net8.0-windows\WinFormsCliente.exe
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\bin\Debug\net8.0-windows\WinFormsCliente.deps.json
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\bin\Debug\net8.0-windows\WinFormsCliente.runtimeconfig.json
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\bin\Debug\net8.0-windows\WinFormsCliente.dll
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\bin\Debug\net8.0-windows\WinFormsCliente.pdb
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.dll
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\refint\WinFormsCliente.dll
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.pdb
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\WinFormsCliente.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\REPOS\PROYECTO VERANO\ProyectoVerano\WinFormsCliente\obj\Debug\net8.0-windows\ref\WinFormsCliente.dll
